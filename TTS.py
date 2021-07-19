@@ -1,8 +1,6 @@
-from ibm_cloud_sdk_core import authenticators
-from ibm_cloud_sdk_core.authenticators.authenticator import Authenticator
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
-from ibm_watson.websocket import audio_source
+
 
 
 #Credentials for IBM watson text to speech service
