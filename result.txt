@@ -1,0 +1,1 @@
+Recognized text: this is a test run for IBM Watson speech to text recognition 
